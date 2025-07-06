@@ -1,0 +1,8 @@
+
+public class WordFactory {
+
+	public WordFactory() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
